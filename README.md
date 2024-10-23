@@ -6,4 +6,5 @@ This repository contains a collection of coding exercises and projects completed
 + Unsupervised Learning: Clustering algorithms like K-Means, Hierarchical Clustering, and Principal Component Analysis (PCA).
 + Data Processing: Feature engineering, handling missing data.
 + Model Evaluation: Cross-validation, metrics(Mean square error, R2 score, ...).
-+ Each code exercise demonstrates the practical application of core machine learning principles using popular Python libraries such as Scikit-learn, Pandas, and NumPy.
++ 
+Each code exercise demonstrates the practical application of core machine learning principles using popular Python libraries such as Scikit-learn, Pandas, and NumPy.
